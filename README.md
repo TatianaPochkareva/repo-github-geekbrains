@@ -1,1 +1,1 @@
-# repo-github-geekbrains
+# repo-lessons
